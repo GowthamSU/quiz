@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
+
+* {
+  margin: 0;
+  padding:0;
+  }
+
+.Container{
+  background-color: hsl(212, 45%, 89%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+font-family: 'Outfit', sans-serif;
+font-weight: 200
+}
+
+.image{
+  width: 93%;
+  border-radius: 5%;
+  
+}
+.imageFlex{
+  display: flex;
+  justify-content: center;
+}
+
+.centerContainer{
+  background-color: aliceblue;
+width: 17%;
+  padding:10px;
+   border-radius: 5%;
+}
+.head{
+  text-align: center;
+}
+
+.title{
+  color:hsl(220, 15%, 55%);
+}

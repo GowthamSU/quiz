@@ -1,0 +1,18 @@
+.page{
+  background-color:rgb(148, 175, 122);
+}
+
+.container{
+  text-align: center;
+}
+
+.image{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.marginRight{
+  margin-right: 10px;
+}
+
